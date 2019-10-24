@@ -3,10 +3,8 @@ layout: posts
 title:بیابان هم که باشی حسین آبادت میکند درست مثل کربلا.
 ---
 
-This is a sample post:
-- *Post* one and **post** two.
-- bullet point two.
+![an image alt twxt]({{ mnaderi98.githu }}/assets/images/8.jpg)
 
 
 ---
-**Test**: This is atest
+
