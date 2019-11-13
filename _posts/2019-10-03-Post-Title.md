@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Sample post 1
+title: چجوری درس بخونیم؟؟(از نظر دانشجوهای علموصی)
 ---
 
 This is a sample post:
