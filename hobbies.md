@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* [کتاب بخونیم](http://www.ghessesara.com/)
+* [کتاب بخوانیم](http://www.ghessesara.com/)
 
 
