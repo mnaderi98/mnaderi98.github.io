@@ -12,5 +12,5 @@ comments: false
 
 * [My university](http://www.iust.ac.ir/)
 * [My lessons](https://sauleh.github.io/fc98/lectures/)
-* [My highschool](t.me/FarzaneganBarnamerizi)
+
 
