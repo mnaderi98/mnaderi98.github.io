@@ -117,6 +117,7 @@ author:
   google_scholar: Q25s5KkAAAAJ
   github: mnaderi98
   instagram: naderi4238
+  Calendly: https://calendly.com/m-naderi
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -136,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Calendly"
+      icon: "fab fa-fw fa-Calendly"
+      # url: "https://calendly.com/m-naderi"
 
 # Site Footer
 footer:
