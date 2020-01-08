@@ -162,6 +162,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Calendly"
+      icon: "fab fa-fw fa-Calendly"
+      # url: "https://calendly.com/m-naderi"
 
 
 # Reading Files
