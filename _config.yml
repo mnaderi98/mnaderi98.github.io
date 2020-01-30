@@ -137,8 +137,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Calendly"
-      icon: "fab fa-fw fa-Calendly"
+    - label: "calendly"
+      icon: "fab fa-fw fa-calendly"
       # url: "https://calendly.com/m-naderi"
 
 # Site Footer
@@ -162,8 +162,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Calendly"
-      icon: "fab fa-fw fa-Calendly"
+    - label: "calendly"
+      icon: "fab fa-fw fa-calendly"
       # url: "https://calendly.com/m-naderi"
 
 
